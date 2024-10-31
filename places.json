@@ -1,5 +1,12 @@
 [
     {
+        "name": "Ancalimë",
+        "description": "Ancalimë est l'ancienne cité des elfes du crépuscule, maintenant en ruine et hanté par des ombres.",
+        "tags": ["ruines", "Barovie", "elfe du crépuscule", "ombre", "malédiction"],
+        "link": "Places/ancalime.html"
+    }
+    ,
+    {
         "name": "Argynvostholt",
         "description": "Argynvostholt est un château en ruines en Barovie, ancien sanctuaire de l'Ordre du Dragon d'Argent, désormais hanté par des chevaliers ressuscités.",
         "tags": ["château", "ruines", "Barovie", "Ordre du Dragon d'Argent", "seigneur de lumière"],
