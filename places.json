@@ -28,6 +28,13 @@
     }
     ,
     {
+        "name": "Naloré",
+        "description": "Naloré est le dernier campement des elfes du crépuscule.",
+        "tags": ["campement", "Barovie", "elfe du crépuscule", "druide", "maitresse de la nuit"],
+        "link": "Places/ancalime.html"
+    }
+    ,
+    {
         "name": "Ravenloft",
         "description": "Le Château de Ravenloft, sombre et imposant, domine la vallée de Barovie. Ses murs de pierre noire et ses tours élancées en font un lieu de majesté sinistre, abritant de nombreux secrets et le seigneur vampire Strahd.",
         "tags": ["château", "Barovie", "vampire", "Strahd von Zarovich"],
