@@ -12,6 +12,12 @@
         "link": "Characters/bildrath-cantemir.html"
     },
     {
+        "name": "Blinsky",
+        "description": "Blinsky est l'excentrique propriétaire d'une boutique d'objet magique.",
+        "tags": ["commerçant", "magie", "objet magique"],
+        "link": "Characters/blinsky.html"
+    },
+    {
         "name": "Donovich",
         "description": "Donovich était le prêtre de l’église du village de Barovie, capturant des villageois pour nourrir son fils vampire, Doru.",
         "tags": ["prêtre", "Barovie"],
@@ -22,6 +28,12 @@
         "description": "Doru est le fils vampire du prêtre Donovich, enfermé dans la cave de l'église et nourri de sang d'innocents.",
         "tags": ["vampire", "Barovie"],
         "link": "Characters/doru.html"
+    },
+    {
+        "name": "Elarya Tisserêve",
+        "description": "Elarya Tisserêve est le chef des elfes du crépuscule, à la fois une druide et une magicienne.",
+        "tags": ["elfe du crépuscule", "Naloré", "druide", "magie", "magicienne"],
+        "link": "Characters/elarya-tissereve.html"
     },
     {
         "name": "Escher",
@@ -88,6 +100,12 @@
         "description": "Morgantha, vieille dame étrange, vend des tartes à la viande qui rendent temporairement plus forts mais provoquent une sensation de manque.",
         "tags": ["vendeuse", "Barovie"],
         "link": "Characters/morgantha.html"
+    },
+    {
+        "name": "Myriana Feuillargent",
+        "description": "Myriana Feuillargent est la prétresse de Naloré.",
+        "tags": ["elfe du crépuscule", "Naloré", "prêtre", "magie", "Dame de la Nuit"],
+        "link": "Characters/myriana-feuilleargent.html"
     },
     {
         "name": "Père Lucian Petrovich",
@@ -172,6 +190,12 @@
         "description": "Volenta Popfsky est l'une des épouses de Strahd von Zarovich, ressemblant à une femme qui attaqua le groupe sur le pont du Tser.",
         "tags": ["épouse", "vampire"],
         "link": "Characters/volenta-popfsky.html"
+    },
+    {
+        "name": "Zikit",
+        "description": "Zikit est l'abomination à l'intérieur du corps d'Alryn.",
+        "tags": ["Alryn", "abomination"],
+        "link": "Characters/zikit.html"
     },
     {
         "name": "Zuleka",
